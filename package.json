@@ -2,11 +2,9 @@
   "name": "@vnikhra/word-counter",
   "version": "1.0.2",
   "description": "A library to count words in a file stream",
+  "private": false,
   "main": "build/index.js",
   "types": "build/index.d.ts",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/@vnikhra/word-counter.git"
