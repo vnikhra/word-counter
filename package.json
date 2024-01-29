@@ -1,6 +1,6 @@
 {
   "name": "@vnikhra/word-counter",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A library to count words in a file stream",
   "private": false,
   "main": "build/index.js",
